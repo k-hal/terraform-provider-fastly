@@ -10,5 +10,5 @@ require (
 	github.com/hashicorp/terraform-plugin-docs v0.5.0
 	github.com/hashicorp/terraform-plugin-sdk/v2 v2.10.1
 	github.com/stretchr/testify v1.7.0
-	golang.org/x/net v0.0.0-20211015210444-4f30a5c0130f
+	golang.org/x/net v0.7.0
 )
